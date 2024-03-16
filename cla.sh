@@ -19,11 +19,11 @@ lkljljkjlasdj
 jdhkjhsa
 hkjjlkads
 jsdalkfjl
-<<<<<<< HEAD
+ mergeexample
 adfasfdsa
 dfasdfsa
 dafdafdsa
 sa;ldkl;sak;lfsa;dfjlkjsalf
-=======
 sa;dfjlkjsalf
->>>>>>> division
+division
+mergeexample
