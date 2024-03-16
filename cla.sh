@@ -19,7 +19,11 @@ lkljljkjlasdj
 jdhkjhsa
 hkjjlkads
 jsdalkfjl
+<<<<<<< HEAD
 adfasfdsa
 dfasdfsa
 dafdafdsa
 sa;ldkl;sak;lfsa;dfjlkjsalf
+=======
+sa;dfjlkjsalf
+>>>>>>> division
